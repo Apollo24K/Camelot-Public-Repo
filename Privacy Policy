@@ -1,0 +1,13 @@
+Camelot Privacy Policy
+
+This Privacy Policy explains how we collect, use, store and protect your account information through our bot.
+
+The Information we collect
+1) User ID's: When you use any commands that require us to store some date bound to your account, a user account is automatically being created including your discord accounts ID.
+2) Guild ID's: To distinguish your collected items on one server from another we store guild ID's wherever required.
+3) Channel ID's: When an admin on a server chooses to disable a channel on their server, the channel ID gets stored so the bot won't respond on messages coming from there.
+
+The information provided above is up to date and will be changed accordingly if any changes should occure.
+
+We do not store any more information about users than we need to, and every user is welcome to request a complete removal of his/her accumulated date on our support server.
+None of our collected data, be it about user accounts or statistics, is being shared with anyone outisde our staff. The bot owner is the only person with direct access to our database.
