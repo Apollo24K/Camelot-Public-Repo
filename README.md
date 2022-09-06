@@ -1,4 +1,4 @@
 # Camelot-Public-Repo
 Camelot's Pubilc Repository
 
-As of now, Camelot is closed source and will stay like that for the foreseeable future.
+This repository includes the Terms of Service and Privacy Policy of Camelot.
